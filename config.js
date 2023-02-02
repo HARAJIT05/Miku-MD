@@ -7,16 +7,16 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['917407138389']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.OwnerNumber = ['917407138389']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.ownertag = ['7407138389']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.Owner = ['917407138389']
+global.OwnerNumber = ['917407138389']
+global.ownertag = ['7407138389']
 global.BotName = "Miku"
 global.packname = "Miku bot"
 global.author = "POWERED BY HARAJIT"
 global.OwnerName = "HARAJIT"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD" // -- Please don't change -- //
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"  // -- Please don't change -- //
-global.sessionName = "session"  // -- Don't change otherwise bot will not work -- //
+global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
+global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.sessionName = "session"
 
 
 
@@ -66,7 +66,6 @@ global.mess = {
     privateonly: 'This command is only made for *Private Chat*, Baka!',
     botonly: 'Only the *Bot itself* can use this command!',
     waiting: 'Chotto Matte...',
-    nolink: 'Please provide me *link*, Baka!',
     error: 'An error occurd!',
     banned: 'You are *Banned* fron using commands!',
     bangc: 'This Group is *Banned* from using Commands!',
@@ -79,14 +78,6 @@ global.limitawal = {
     premium: "Infinity",
     free: 2,
     monayawal: 1000
-}
-   global.rpg = {
-   darahawal: 100,
-   besiawal: 95,
-   goldawal: 30,
-   emeraldawal: 8,
-   umpanawal: 10,
-   potionawal: 5
 }
 global.limitawal = {
     rakyat: "Infinity",
